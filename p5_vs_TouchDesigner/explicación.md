@@ -1,0 +1,3 @@
+A pesar de que TouchDesigner y p5 no se parecen mucho a primera vista, puedes lograr cosas parecidas con ambas, e incluso hacer que colaboren para crear un gran proyecto. Diría que eso es algo que las hace parecerse hasta cierto punto.
+
+Por otro lado, la característica que considero más significativa para diferenciarlas es lo visual. Mientras que p5 se domina con programación escrita, TouchDesigner lo hace mediante un formato más visual: operadores que, a simple vista, recuerdan a cajas con imágenes o, en lo personal, a las televisoras de los años 70. 
