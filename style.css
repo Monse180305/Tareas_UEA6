@@ -1,5 +1,17 @@
-body{
-    background-color: #0b0000;
+#video-fondo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+    z-index: -1; 
+}
+
+.contenido {
+    position: relative;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.5); 
     padding: 20px;
 }
 
@@ -33,9 +45,9 @@ p{
 
 .fotos{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(4, 1fr);
     gap: 20px;
-    max-width: 850px;
+    max-width: 1400px;
     margin: auto;
 }
 
