@@ -56,3 +56,8 @@ p{
   height: auto;
   object-fit: cover;
 } 
+
+a {
+    color: white;
+    text-decoration: underline;
+}
